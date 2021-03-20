@@ -3,8 +3,15 @@
 - 👀 I’m interested in coding of all kinds!
 
 - 🌱 I’m currently learning OOP principles and how to use them effectively in applications. 
-Currently I am working with Python and C# on desktop applications mainly console based but I am studying GUI packages such as Tkinter and WPF.
-In time I intend to integrate more database and API usage into my projects.
+Currently I am working with Python and C# on desktop applications and I am studying GUI packages such as Tkinter Qt and WPF.
+In time I intend to integrate more database and API usage into my projects. I have some web development experience and I am familiar with HTML, CSS, JavaScript etc.
+
+Recent projects I have worked on:
+
+- A Stock Screening application - Written in Python with a PyQt5 GUI and using data from the Alpha Vantage API
+- An image conversion and resizing application - Written in Python with a Tkinter GUI and using the Pillow (PIL) library
+- An application to retrieve vinyl record data from the Discogs.com API - Written in Python with a Tkinter GUI
+- A record cataloguing application for vinyl records - Written in C# with a WPF GUI. Currently records data to a CSV file
 
 - 💞️ I’m looking to collaborate on anything that helps me learn!
 
