@@ -15,7 +15,7 @@ Recent projects I have worked on:
 
 - 💞️ I’m looking to collaborate on anything that helps me learn!
 
-- 📫 How to reach me ... You can reach me on Github, Twitter @ChalderSimon and on Mastodon @cybersi_io@fosstodon.org
+- 📫 How to reach me ... You can reach me on Github, Twitter https://twitter.com/ChalderSimon and on Mastodon @cybersi_io@fosstodon.org
 
 <!---
 simonchalder/simonchalder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
