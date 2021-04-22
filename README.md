@@ -8,6 +8,7 @@ In time I intend to integrate more database and API usage into my projects. I ha
 
 Recent projects I have worked on:
 
+- A stock management system in C# .NET with a remote MongoDB database
 - A bill and tip calculator in .NET C# with WPF
 - An application to practice unit testing in .NET C#
 - An image conversion and resizing application - Written in Python with a Tkinter GUI and using the Pillow (PIL) library
