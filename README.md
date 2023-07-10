@@ -8,6 +8,8 @@ In time I intend to integrate more database and API usage into my projects. I ha
 
 Recent projects I have worked on:
 
+- An Android tree height calculator written in Python
+- An app to calculate, display and compare carrying capacities for wildlife over time
 - A stock management system in C# .NET with a remote MongoDB database
 - A bill and tip calculator in .NET C# with WPF
 - An application to practice unit testing in .NET C#
@@ -15,9 +17,6 @@ Recent projects I have worked on:
 - An application to retrieve vinyl record data from the Discogs.com API - Written in Python with a Tkinter GUI
 - A record cataloguing application for vinyl records - Written in C# with a WPF GUI. Currently records data to a CSV file
 
-- 💞️ I’m looking to collaborate on anything that helps me learn!
-
-- 📫 How to reach me ... You can reach me on Github, Twitter https://twitter.com/ChalderSimon and on Mastodon @cybersi_io@fosstodon.org
 
 <!---
 simonchalder/simonchalder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
